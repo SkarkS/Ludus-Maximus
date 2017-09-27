@@ -5,13 +5,17 @@ I – Statistiques personnelles
 	1 - Il existe des paires de statistiques qui sont contraires l'une à l'autre  :
 		a. Force et Vitesse
 		b. Volonté et Obéissance
+	2 – Les stats des gladiateurs seront différentes selon leur culture. *Voir II ; 3*
 
 
 II – Culture
 	1 – Les gladiateurs ont tous une culture attribuée selon la façon dont on l'a obtenu.
 	2 – Les gladiateurs auront un prénom tiré aléatoirement d'une liste en fonction de leur culture.
 	3 – Les stats des gladiateurs seront différentes selon leur culture.
-	4 - Les gladiateurs sont sujets aux tensions culturelles si de gros groupes appartenant à la même culture se forment.
+	4 - Les gladiateurs sont sujets aux tensions culturelles si de gros groupes appartenant à la même culture se forment dans le 		    ludus.
+	5 - Le gladiateur peut ne pas aimer une ou plusieurs cultures, cette haine est générée aléatoirement à l'instanciation du 		    gladiateur.
+	6 - Un bonus peut être obtenu en mettant des gladiateurs de la même culture ensembles au combat.
+	7 - Un gladiateur obtient un malus si il combat avec un gladiateur dont il n'aime pas la culture.
 
 III - Marchands
 	1 - Les marchands ne fournissent pas tous des esclaves de la même culture.
